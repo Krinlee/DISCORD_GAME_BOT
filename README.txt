@@ -6,3 +6,5 @@ The Channel Id parts of the .env file are completely up to you. I personally
 have a channel in my Discord where I test out the bots before releasing them
 to the channels that everyone can see. But to get the ID for those you just
 right click on the channel and in the list should be the option to copy the ID.
+
+To use these files you will need to install Discord.py and dotenv in the cmd/terminal.
